@@ -3,7 +3,11 @@ This repository contains the complete implementation of a Data Warehouse and Bus
 
 It focuses on transforming synthetic transactional data from a cannabis dispensary into insightful analytics using industry-standard tools such as SSIS, SSAS, Power BI, and Excel.
 
+
+
 🔍 Project Scope
+
+
 
 #Data Source: Synthetic dataset from Kaggle simulating cannabis dispensary transactions
 
@@ -25,7 +29,9 @@ Power BI Reports:
 
 #Drill-through interactive report
 
+
 🗂️ Repository Contents
+
 
 DWBI_Assignment_01_Report.pdf: Full documentation of the ETL and Data Warehouse design
 
@@ -38,7 +44,10 @@ ExcelAnalysis/: Excel workbook files demonstrating OLAP operations
 ProjectFiles/: SSIS and SSAS project files used in development
 
 
+
 🚀 Tools & Technologies
+
+
 
 Microsoft SQL Server (SSMS, SSIS, SSAS)
 
@@ -50,7 +59,9 @@ Visual Studio Data Tools
 
 Kaggle (Data Source)
 
+
 📌 Author
+
 
 Name: Deemantha P.H.H.C
 
