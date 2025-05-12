@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="LAPTOP-46T7I6NS.DWBI_Assignment_Staging"
+  DTS:DTSID="{7589FD9C-F58D-4759-83BD-E6E9D627B581}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=LAPTOP-46T7I6NS;Initial Catalog=DWBI_Assignment_Staging;Provider=SQLOLEDB.1;Integrated Security=SSPI;Application Name=SSIS-Assign_1-{7589FD9C-F58D-4759-83BD-E6E9D627B581}LAPTOP-46T7I6NS.DWBI_Assignment_Staging;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>

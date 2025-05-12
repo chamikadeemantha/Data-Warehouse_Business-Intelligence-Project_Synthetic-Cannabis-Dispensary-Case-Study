@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DWBI\\Assignment_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|solutionrelative:Assignment_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|solutionrelative:Assignment_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Product Inventory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|solutionrelative:Assignment_SSAS\\Dim Product Inventory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Fact Customer Orders.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|solutionrelative:Assignment_SSAS\\Fact Customer Orders.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Cube_Assignment.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{5EBE9957-C12C-48A7-B41F-1CA392B88B7D}|Assignment_SSAS\\Assignment_SSAS.dwproj|solutionrelative:Assignment_SSAS\\Cube_Assignment.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Fact Customer Orders.dim [Design]",
+              "DocumentMoniker": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Fact Customer Orders.dim",
+              "RelativeDocumentMoniker": "Assignment_SSAS\\Fact Customer Orders.dim",
+              "ToolTip": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Fact Customer Orders.dim [Design]",
+              "RelativeToolTip": "Assignment_SSAS\\Fact Customer Orders.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-11T07:30:02.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Assignment_SSAS\\Dim Customer.dim",
+              "ToolTip": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Assignment_SSAS\\Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-10T15:06:10.03Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Assignment_SSAS\\Dim Date.dim",
+              "ToolTip": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Assignment_SSAS\\Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T19:07:14.467Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Product Inventory.dim [Design]",
+              "DocumentMoniker": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Product Inventory.dim",
+              "RelativeDocumentMoniker": "Assignment_SSAS\\Dim Product Inventory.dim",
+              "ToolTip": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Dim Product Inventory.dim [Design]",
+              "RelativeToolTip": "Assignment_SSAS\\Dim Product Inventory.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T19:01:49.421Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cube_Assignment.cube [Design]",
+              "DocumentMoniker": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Cube_Assignment.cube",
+              "RelativeDocumentMoniker": "Assignment_SSAS\\Cube_Assignment.cube",
+              "ToolTip": "E:\\DWBI\\Assignment_SSAS\\Assignment_SSAS\\Cube_Assignment.cube [Design]",
+              "RelativeToolTip": "Assignment_SSAS\\Cube_Assignment.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T18:57:27.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
