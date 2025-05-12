@@ -13,10 +13,10 @@ It focuses on transforming synthetic transactional data from a cannabis dispensa
 
 Power BI Reports:
 
-  #Matrix-based summary report
-  #Cascading slicers report
-  #Time-series drill-down report
-  #Drill-through interactive report
+#Matrix-based summary report
+#Cascading slicers report
+#Time-series drill-down report
+#Drill-through interactive report
 
 🗂️ Repository Contents
 
